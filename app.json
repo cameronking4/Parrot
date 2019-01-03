@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "facebookScheme": "fb1047121222092614",
+    "facebookAppId": "349333322564650",
+    "facebookDisplayName": "Parrot",
+    "android": {
+      "package": "io.Parrot.login"
+    },
+    "name": "Parrot",
+    "description": "Match with people you already know",
+    "slug": "parrot",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#38303f"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
